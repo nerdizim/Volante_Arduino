@@ -22,3 +22,4 @@ A2	Freio
 
 Bibliotecas necessárias
 Joystick.h (Arduino HID Library)
+https://github.com/MHeironimus/ArduinoJoystickLibrary
